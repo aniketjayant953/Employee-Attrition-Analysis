@@ -40,7 +40,7 @@ To explore the Employee Attrition analysis, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/aniketjamdade/Employee-Attrition-Analysis.git
+   git clone https://github.com/aniketjayant953/Employee-Attrition-Analysis.git
    ```
 
 2. **Open Power BI:**
